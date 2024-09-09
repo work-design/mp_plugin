@@ -4,3 +4,10 @@
 
 * 蓝牙打印机
 * 蓝牙秤
+
+## 如何使用
+
+```js
+<navigator url="plugin://bluetooth/weigh">蓝牙秤</navigator>
+
+```
