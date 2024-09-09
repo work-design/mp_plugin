@@ -1,5 +1,9 @@
-<navigator id="nav" url="plugin://hello-plugin/hello-page">
-  Go to Plugin page
+<navigator id="nav" url="plugin://hello-plugin/print">
+  Go to Print
+</navigator>
+
+<navigator id="nav" url="plugin://hello-plugin/weigh">
+  Go to Wigth
 </navigator>
 
 <button id="add" bindtap="addItem">Add item</button>
