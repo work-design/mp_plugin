@@ -3,7 +3,8 @@
     "hello-component": "components/hello-component"
   },
   "pages": {
-    "hello-page": "pages/hello-page"
+    "print": "pages/print/index",
+    "weigh": "pages/weigh/index"
   },
   "main": "index.js"
 }
