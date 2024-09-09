@@ -3,7 +3,7 @@
     "pages/index/index"
   ],
   "plugins": {
-    "hello-plugin": {
+    "bluetooth": {
       "version": "dev",
       "provider": "wxcdcb0fa80cf4c2c9"
     }

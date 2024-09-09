@@ -1,11 +1,3 @@
-<navigator id="nav" url="plugin://hello-plugin/print">
-  Go to Print
-</navigator>
+<navigator url="plugin://bluetooth/print">蓝牙打印机</navigator>
 
-<navigator id="nav" url="plugin://hello-plugin/weigh">
-  Go to Wigth
-</navigator>
-
-<button id="add" bindtap="addItem">Add item</button>
-
-<hello-list items="{{ items }}" />
+<navigator url="plugin://bluetooth/weigh">蓝牙秤</navigator>
